@@ -129,6 +129,7 @@ background-color:#F8D135;
 
 
 
+
 .show{
 	margin-top:15px;
 	
@@ -160,14 +161,6 @@ background-color:#F8D135;
 	bottom:250px;
 	
 }
-
-.footer{
-	background-color:black;
-	color:yellow;
-	margin-top:5px;
-	padding:10px;
-}
-
 
 .project2{
 	margin-top:15px;
@@ -219,6 +212,14 @@ background-color:#F8D135;
 	transform:scale(1.1);
 }
 
+.footer{
+	background-color:black;
+	color:yellow;
+	margin-top:5px;
+	padding:10px;
+    text-align:justify;
+    
+}
 
 
 .footer2{
@@ -232,6 +233,7 @@ background-color:#F8D135;
 	background-color:black;
 	color:yellow;
 	margin-top:5px;
+    text-align:justify;  
 }
 
 .footer3 a{
@@ -247,10 +249,12 @@ background-color:#F8D135;
 	margin-top:25px;
 	color:red;
 	margin-bottom:25px;
+
 }
 
 .contactlist a{
    text-decoration:none;
+   display:block;
 }
 
 
@@ -276,3 +280,4 @@ element.style {
 h1{
  color:red;
 }
+
